@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XNotAGuestX
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C# and JS
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on nothing :)
 - 📫 How to reach me Discord, _Leo_#3108
 
